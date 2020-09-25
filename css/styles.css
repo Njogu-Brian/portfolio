@@ -3,8 +3,11 @@
 }
 #intro {
     text-align: center;
-    font-size: xx-large;
+    font-size: 40pt;
     color: white;
+    font-weight: 20;
+    padding-right: 100px;
+    padding-left: 100px;
 }
 button {
     width: 200px;
@@ -23,4 +26,9 @@ button {
 button:hover {
     background: teal;
     color:white; 
+}
+body {
+    margin: 300px;
+    border: 150px;
+    padding: 50px;
 }
