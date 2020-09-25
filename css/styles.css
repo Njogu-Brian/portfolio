@@ -3,11 +3,10 @@
 }
 #intro {
     text-align: center;
-    font-size: 40pt;
+    font-size: 35pt;
     color: white;
     font-weight: 20;
-    padding-right: 100px;
-    padding-left: 100px;
+    
 }
 button {
     width: 200px;
@@ -27,8 +26,25 @@ button:hover {
     background: teal;
     color:white; 
 }
-body {
-    margin: 300px;
-    border: 150px;
-    padding: 50px;
-}
+
+.topnav {
+    background-color: transparent;
+    overflow: hidden;
+    margin-top: 659px;
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .topnav a.active {
+    background-color: magenta;
+    color: white;
+  }
