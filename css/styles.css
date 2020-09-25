@@ -1,0 +1,22 @@
+.name {
+    color: blueviolet;
+}
+#intro {
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}
+body {
+    background-color: black;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 40px 20px;
+    cursor: pointer;
+    align-self: start;
