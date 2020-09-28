@@ -30,7 +30,6 @@ button:hover {
 .topnav {
     background-color: transparent;
     overflow: hidden;
-    margin-top: 659px;
   }
   .topnav a {
     float: left;
@@ -47,3 +46,9 @@ button:hover {
   .topnav a.active {
     background-color: magenta;
     color: white;
+  }
+.intro{
+  margin: 200px;
+  border: 100px;
+  padding:100px;
+}
