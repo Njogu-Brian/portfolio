@@ -5,7 +5,6 @@ h1 {
 img{
     width: 20%;
     height: auto;
-    border-radius: 30%;
     float: left;
 }
 body {
@@ -17,3 +16,17 @@ body {
     font-size: 17pt;
     font-family: tahoma;
 }
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  .column {
+    flex: 50%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
