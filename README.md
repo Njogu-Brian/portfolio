@@ -8,7 +8,7 @@ I have developed a website that showcases my portfolio since i joined moringa sc
 I have also talked about me all my hobies and intrest and added a few photos.
 
 ## Setup/Installation Requirements
-* Click the link "" and check it out in your browser
+* Click the link "https://njogu-brian.github.io/portfolio/" and check it out in your browser
 
 ## Known Bugs
 The website is still under development and may have some issues.
