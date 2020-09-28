@@ -5,11 +5,11 @@ h1 {
 img{
     width: 20%;
     height: auto;
-    float: left;
+    
 }
 body {
-    background-color: burlywood;
-    margin: 100px;
+    background-color: plum;
+    margin: 200px;
     margin-top: -30px;
     padding: 50px;
     border: 50px;
@@ -30,3 +30,15 @@ body {
     margin-top: 8px;
     vertical-align: middle;
   }
+.images {
+    color: darkblue;
+    font-weight: 200;
+}
+#profile {
+    margin-right: 300px;
+    margin-left: 300px;
+    padding-left: 100px;
+    padding-left: 100px;
+    border-right: 100px;
+    border-left: 100x;
+}
