@@ -1,0 +1,17 @@
+body{
+    margin: 200px;
+    margin-top: -40px;
+    padding: 100px;
+    border: 100px;
+    text-align: center;
+    font-family: tahoma;
+    font-size: 18pt;
+    color: black;
+    background-color: rgba(48, 122, 219, 0.322);
+
+}
+#portfolio{
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
